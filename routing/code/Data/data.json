@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 19.99,
+      "quantity": 25,
+      "imageUrl": "https://picsum.photos/id/100/300/300",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Ut eget massa vitae nisl vehicula euismod non sed erat.",
+      "price": 29.99,
+      "quantity": 20,
+      "imageUrl": "https://picsum.photos/id/200/300/300",
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Proin varius, sapien eget faucibus pretium, felis quam blandit magna.",
+      "price": 9.99,
+      "quantity": 30,
+      "imageUrl": "https://picsum.photos/id/300/300/300",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "description": "Vestibulum id tellus tristique, convallis odio sed, suscipit nisi.",
+      "price": 49.99,
+      "quantity": 15,
+      "imageUrl": "https://picsum.photos/id/400/300/300",
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "description": "Aliquam vel malesuada metus. Maecenas non ornare purus.",
+      "price": 14.99,
+      "quantity": 40,
+      "imageUrl": "https://picsum.photos/id/500/300/300",
+      "category": "Clothing"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "description": "Nulla facilisi. Donec pharetra tristique sapien, at consectetur metus euismod ac.",
+      "price": 39.99,
+      "quantity": 10,
+      "imageUrl": "https://picsum.photos/id/600/300/300",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "description": "Nam id nibh tincidunt, convallis orci vel, blandit neque.",
+      "price": 79.99,
+      "quantity": 5,
+      "imageUrl": "https://picsum.photos/id/700/300/300",
+      "category": "Electronics"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "description": "Mauris ultrices tortor vitae velit maximus lacinia.",
+      "price": 24.99,
+      "quantity": 30,
+      "imageUrl": "https://picsum.photos/id/800/300/300",
+      "category": "Clothing"
+    }
+]
+  
