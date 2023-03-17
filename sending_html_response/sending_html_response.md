@@ -1,0 +1,1 @@
+In nodeJS we can not send ststic files directly
